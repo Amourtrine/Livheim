@@ -1,5 +1,4 @@
-# **Livheim**
-## **Making a Valheim Worth Fighting For**
+![LivheimIconScaled2](https://user-images.githubusercontent.com/107686104/174684338-41b404ee-821e-4764-aa30-559830a716b9.png)
 #### Change the world around you as you progress through the Forsaken. As each is defeated, your world becomes more diverse and alive while strictly sticking to Norse mythology the entire way. Progressively adds 50+ creature variations, 10+ new endgame Hunter creatures, several new bosses based on real Norse beings, and a host of lore-friendly NPC species that move in and settle in Valheim as you tame it!
 ## Index:
 1. Introduction
