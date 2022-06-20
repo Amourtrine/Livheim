@@ -5,7 +5,7 @@
 1. Introduction
 2. Downloads
 3. Installation
-4. Current Content
+4. [Current Content](CONTENT.md)
 ##
 ## Introduction
 Welcome to Livheim; an ongoing project with the goal of having the player shape the world around them. Planned within this mod are multiple progressive enemies, hunters, and bosses, as well as new intelligent beings like Elves, Orcs, Dwarves, and even fellow Vikings that move into villages and structures as you tame the world around them. Ever feel that Epic Loot's adventure mode doesn't have dangerous bounties or bounties that require long travel? Livheim also hooks into Epic Loot's trader bounty system, adding several new bosses as bounties with the stakes being higher than ever before. Start bounties on anything from the lowest little Neckling to Surtr the Fire Giant and his army of Surtlings. Want those large-scale battles, but in the comfort of your own cabin? Livheim's monsters also have multiple custom raids! Playing alone with this mod no longer feels empty or lonesome when part of your goal is making sure others survive in this land too. Help them out enough, and they may just be willing to follow you into battle...
@@ -35,3 +35,5 @@ Welcome to Livheim; an ongoing project with the goal of having the player shape 
 ### Automatic Installation:
 - Livheim has no current way of installing automatically, although it is planned once the mod is fully running. For the closed Alpha and well into the Beta, Livheim will likely be a manual installation.
 ##
+## Current Content
+### All documentation on the current monsters, npcs, and other content of Livheim can be found [here.](CONTENT.md)
